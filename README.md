@@ -1,4 +1,5 @@
 ## Automated test project for Mattress and Bed webshop.
+#### This is just a PoC project. It can be done much better and organised to improvi its scalability and reusability.
 
 ### Requirements:
 - JAVA JDK 21
